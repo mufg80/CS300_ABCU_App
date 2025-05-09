@@ -21,7 +21,7 @@ int main(int argc, char* argv[]) {
 
     // Use this boolean to change between prereq sorter and alphanumerical sorting.
     // << Extra Credit Attempt >>
-    bool usePrereqSorter = true;
+    bool usePrereqSorter = false;
     // Greeting
     std::cout << "         Welcome to ABCU Course App         " << std::endl;
     
